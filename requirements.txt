@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-groq
+fastapi
+uvicorn
+pydantic 
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
